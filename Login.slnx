@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../TipoUsuarioSRV5/TipoUsuarioSRV5.csproj" />
+  <Project Path="../LoginSRV1/LoginSRV1.csproj" />
+</Solution>

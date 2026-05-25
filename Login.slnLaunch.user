@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "..\\LoginSRV1\\LoginSRV1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\TipoUsuarioSRV5\\TipoUsuarioSRV5.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
