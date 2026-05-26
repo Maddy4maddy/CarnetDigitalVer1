@@ -9,6 +9,10 @@
       {
         "Path": "..\\..\\TipoUsuarioSRV5\\TipoUsuarioSRV5.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "TipoIdentificacionSRV6\\TipoIdentificacionSRV6.csproj",
+        "Action": "Start"
       }
     ]
   }

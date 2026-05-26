@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../../TipoUsuarioSRV5/TipoUsuarioSRV5.csproj" />
   <Project Path="../LoginSRV1/LoginSRV1.csproj" />
+  <Project Path="TipoIdentificacionSRV6/TipoIdentificacionSRV6.csproj" Id="1038780e-57af-4eed-9b0e-2cb6f7da1aa1" />
 </Solution>
